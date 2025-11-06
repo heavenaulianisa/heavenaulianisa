@@ -16,26 +16,46 @@
 
 ## 🚀 About Me
 
-```typescript
-const heaven = {
-  location: "Klaten, Indonesia 🇮🇩",
-  education: "Internet Engineering Technology @ Universitas Gadjah Mada",
-  gpa: "3.86/4.00",
-  currentRole: "Backend Software Engineer @ Cyber Army Indonesia",
-  interests: [
-    "Cybersecurity & Penetration Testing",
-    "Full-Stack Web Development",
-    "Artificial Intelligence & Machine Learning",
-    "IoT & Embedded Systems",
-    "CTF Challenges & Bug Bounty"
-  ],
-  currentlyLearning: "Advanced Web Security & Automation Testing",
-  lookingToCollaborate: "Open Source Security Tools & Web Applications",
-  funFact: "I build secure applications by day and break them by night 🌙"
-};
+<table>
+<tr>
+<td width="50%">
+
+### 👤 Personal Info
+| | |
+|---|---|
+| 📍 **Location** | Klaten, Indonesia 🇮🇩 |
+| 🎓 **Education** | Internet Engineering Technology<br/>@ Universitas Gadjah Mada |
+| 📊 **GPA** | 3.86/4.00 |
+| 💼 **Current Role** | Backend Software Engineer<br/>@ Cyber Army Indonesia |
+
+</td>
+<td width="50%">
+
+### 🎯 Interests & Focus
+```yaml
+🔐 Cybersecurity & Penetration Testing
+💻 Full-Stack Web Development  
+🤖 Artificial Intelligence & ML
+🔌 IoT & Embedded Systems
+🚩 CTF Challenges & Bug Bounty
 ```
 
-I'm a **7th-semester student** passionate about building secure, scalable web applications and breaking them to make them stronger. With hands-on experience as a **Junior Penetration Tester** and **Full-Stack Developer**, I bridge the gap between security and development.
+### 📚 Currently
+- 🌱 Learning: **Advanced Web Security & Automation Testing**
+- 🤝 Open to: **Open Source Security Tools & Web Apps**
+- ⚡ Fun fact: **I build secure apps by day and break them by night** 🌙
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 *"Bridging the gap between security and development"*
+
+I'm a **7th-semester student** passionate about building secure, scalable web applications and breaking them to make them stronger. With hands-on experience as a **Junior Penetration Tester** and **Full-Stack Developer**, I combine offensive security mindset with defensive development practices.
+
+</div>
 
 ---
 
@@ -194,46 +214,61 @@ Universitas Gadjah Mada | `Aug 2022 - Present`
 
 ## 🌟 Skills & Expertise
 
-```python
-skills = {
-    "Cybersecurity": [
-        "Penetration Testing",
-        "Vulnerability Assessment",
-        "OWASP WSTG Framework",
-        "CTF Challenges",
-        "Security Automation",
-        "CVSS Risk Assessment"
-    ],
-    "Web Development": [
-        "Full-Stack Development",
-        "React.js & TypeScript",
-        "RESTful API Design",
-        "Database Design (MySQL)",
-        "Responsive UI/UX",
-        "Authentication & Authorization"
-    ],
-    "Security Tools": [
-        "Burp Suite",
-        "Metasploit",
-        "Nmap",
-        "SQLmap",
-        "Gobuster",
-        "Nikto"
-    ],
-    "AI & ML": [
-        "Computer Vision",
-        "Deep Learning (CNN)",
-        "Object Detection (YOLO)",
-        "Model Training & Evaluation"
-    ],
-    "IoT": [
-        "ESP32 Programming",
-        "Sensor Integration",
-        "Telegram Bot Development",
-        "Hardware Prototyping"
-    ]
-}
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity & Security Testing
+```yaml
+⚔️  Penetration Testing
+🔍 Vulnerability Assessment
+📋 OWASP WSTG Framework
+🚩 CTF Challenges
+🤖 Security Automation
+📊 CVSS Risk Assessment
 ```
+
+### 🛠️ Security Arsenal
+| Tool | Purpose |
+|------|---------|
+| 🔥 **Burp Suite** | Web App Security |
+| 💉 **Metasploit** | Exploitation Framework |
+| 🗺️ **Nmap** | Network Scanning |
+| 💉 **SQLmap** | SQL Injection |
+| 📂 **Gobuster** | Directory Brute-forcing |
+| 🔎 **Nikto** | Web Server Scanner |
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Web Development
+```yaml
+🏗️  Full-Stack Development
+⚛️  React.js & TypeScript
+🔌 RESTful API Design
+🗄️  Database Design (MySQL)
+🎨 Responsive UI/UX
+🔐 Authentication & Authorization
+```
+
+### 🤖 AI & IoT
+| Domain | Skills |
+|--------|--------|
+| 👁️ **Computer Vision** | YOLOv5, Object Detection |
+| 🧠 **Deep Learning** | CNN, Model Training |
+| 🔌 **IoT Development** | ESP32, Sensor Integration |
+| 📱 **Bot Development** | Telegram Bot API |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 Tech Philosophy
+> *"Security through understanding. Development through excellence. Innovation through curiosity."*
+
+</div>
 
 ---
 
