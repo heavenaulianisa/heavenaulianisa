@@ -25,8 +25,7 @@
 |---|---|
 | 📍 **Location** | Klaten, Indonesia 🇮🇩 |
 | 🎓 **Education** | Internet Engineering Technology<br/>@ Universitas Gadjah Mada |
-| 📊 **GPA** | 3.86/4.00 |
-| 💼 **Current Role** | Backend Software Engineer<br/>@ Cyber Army Indonesia |
+|  **Current Role** | Backend Software Engineer<br/>@ Cyber Army Indonesia |
 
 </td>
 <td width="50%">
@@ -200,7 +199,7 @@ Intelligent security system with real-time alerts and remote control via Telegra
 
 **🎓 Bachelor's Degree in Internet Engineering Technology**  
 Universitas Gadjah Mada | `Aug 2022 - Present`  
-**GPA:** 3.86/4.00 | **Semester:** 7th
+**Semester:** 7th
 
 **📚 Core Coursework:**
 - Network Security & Information Security
