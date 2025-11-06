@@ -179,7 +179,7 @@ Intelligent security system with real-time alerts and remote control via Telegra
 
 **🎓 Bachelor's Degree in Internet Engineering Technology**  
 Universitas Gadjah Mada | `Aug 2022 - Present`  
-**GPA:** 3.86/4.00 | **Semester:** 7th
+**Semester:** 7th
 
 **📚 Core Coursework:**
 - Network Security & Information Security
