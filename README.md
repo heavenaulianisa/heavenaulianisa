@@ -4,11 +4,11 @@
 
 ### 🛡️ Cybersecurity Enthusiast | 💻 Full-Stack Developer | 🎯 Penetration Tester
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heaven-aulianisa-pambudi-putri)
-[![Dev.to](https://img.shields.io/badge/dev.to-FF69B4?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/heavenaulianisa)
-[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heavenaulianisa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heaven-aulianisa-pambudi-putri)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/heavenaulianisa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heavenaulianisa@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=heavenaulianisa&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=heavenaulianisa&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
@@ -87,38 +87,38 @@ I'm a **7th-semester student** passionate about building secure, scalable web ap
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-FF1493?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-FF1493?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-FFB6C1?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔐 Security & Penetration Testing
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-FF1493?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF69B4?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FFB6C1?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-FF1493?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFB6C1?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-FF1493?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -185,11 +185,11 @@ Intelligent security system with real-time alerts and remote control via Telegra
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heavenaulianisa&show_icons=true&theme=synthwave&hide_border=true&count_private=true&title_color=FF1493&icon_color=FF69B4&text_color=FFB6C1&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heavenaulianisa&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heavenaulianisa&layout=compact&theme=synthwave&hide_border=true&title_color=FF1493&text_color=FFB6C1&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heavenaulianisa&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heavenaulianisa&theme=synthwave&hide_border=true&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=FFB6C1&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heavenaulianisa&theme=radical&hide_border=true)
 
 </div>
 
