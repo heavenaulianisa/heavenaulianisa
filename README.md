@@ -20,7 +20,6 @@
 const heaven = {
   location: "Klaten, Indonesia 🇮🇩",
   education: "Internet Engineering Technology @ Universitas Gadjah Mada",
-  gpa: "3.86/4.00",
   currentRole: "Backend Software Engineer @ Cyber Army Indonesia",
   interests: [
     "Cybersecurity & Penetration Testing",
