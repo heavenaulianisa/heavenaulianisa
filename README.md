@@ -124,7 +124,7 @@ I'm a **7th-semester student** passionate about building secure, scalable web ap
 
 ## 🎯 Featured Projects
 
-### 🌐 [Website Kampung Atuka](https://github.com/heavenaulianisa) 
+### 🌐 [Website Kampung Atuka - KKN-PPM UGM Mendaka Mimika 2025](https://github.com/heavenaulianisa) 
 **Full-Stack Village Management System** | `Jun 2025 - Aug 2025`
 
 A modern web application with public-facing website and secure admin panel for village content management.
