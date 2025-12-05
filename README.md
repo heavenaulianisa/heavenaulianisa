@@ -23,7 +23,7 @@
 ### 👤 Personal Info
 | | |
 |---|---|
-| 📍 **Location** | Klaten, Indonesia 🇮🇩 |
+| 📍 **Location** | Yogyakarta, Indonesia 🇮🇩 |
 | 🎓 **Education** | Internet Engineering Technology<br/>@ Universitas Gadjah Mada |
 |  **Current Role** | Backend Software Engineer<br/>@ Cyber Army Indonesia |
 
